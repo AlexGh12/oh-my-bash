@@ -52,3 +52,6 @@ OMB_PROMPT_VIRTUALENV_FORMAT="${_omb_prompt_bold_gray}(%s)${_omb_prompt_reset_co
 OMB_PROMPT_CONDAENV_FORMAT="${_omb_prompt_bold_gray}(%s)${_omb_prompt_reset_color}"
 
 _omb_util_add_prompt_command _omb_theme_PROMPT_COMMAND
+
+
+# Pruebas de colores
